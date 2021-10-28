@@ -1,1 +1,1 @@
-# design-project-api-mock
+Start mock API with: node app,js
